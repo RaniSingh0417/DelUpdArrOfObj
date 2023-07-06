@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DelUpdArrOfObj/static/css/main.073c9b0a.css",
+    "main.js": "/DelUpdArrOfObj/static/js/main.7f64c668.js",
+    "index.html": "/DelUpdArrOfObj/index.html",
+    "main.073c9b0a.css.map": "/DelUpdArrOfObj/static/css/main.073c9b0a.css.map",
+    "main.7f64c668.js.map": "/DelUpdArrOfObj/static/js/main.7f64c668.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7f64c668.js"
+  ]
+}
